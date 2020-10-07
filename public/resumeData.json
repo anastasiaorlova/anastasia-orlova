@@ -1,18 +1,17 @@
 {
   "main": {
-    "name":"Tim Baker",
-    "occupation":"(Your Occupation Here)",
+    "name":"Anastasia Orlova",
+    "occupation":"Full-stack Web Developer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
-    "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "image":"profilepic.png",
+    "bio":"Full stack web developer experienced in Ruby on Rails and JavaScript based programming with a background in retail and social work. Possess strong client service, leadership and teamwork skills. Transformed my passion for learning foreign languages and creative writing into programming languages studies and tech blogging. An active, inspired learner, committed to social justice and LGBT rights.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
-    "email": "youremailhere@gmail.com",
-    "phone": "555-555-5555",
+    "email": "anastasia.orlova1612@gmail.com",
+    "phone": "(516) 853-4684",
     "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
-      "zip": "(Your Zip/Postal Code)"
+      "city":"Brooklyn",
+      "state":"NY",
+      "zip": "11225"
     },
     "website": "http://www.timbakerdev.com",
     "resumedownload":"http://timbakerdev.com",
