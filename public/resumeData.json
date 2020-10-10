@@ -29,7 +29,7 @@
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+  
     "education":[
       {
         "school":"University?",
@@ -46,10 +46,10 @@
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Russian LGBT Support Group",
+        "title":"Assistant Program Coordinator",
+        "years":"October 2018 – June 2020",
+        "description":"Organized and managed weekly events and distributed information to groups of 20-30 members, provided translation and interpretation services for guest, speakers and members, moderated Facebook Russian LGBT Support Group of over 300 members"
       },
       {
         "company":"Super Cool Studio",
