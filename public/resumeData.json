@@ -6,6 +6,7 @@
     "bio":"Full stack web developer experienced in Ruby on Rails and JavaScript based programming with a background in retail and social work. Possess strong client service, leadership and teamwork skills. Transformed my passion for learning foreign languages and creative writing into programming languages studies and tech blogging. An active, inspired learner, committed to social justice and LGBT rights.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "anastasia.orlova1612@gmail.com",
+    "blog": "https://medium.com/@anastasiaorlova7/",
     "phone": "(516) 853-4684",
     "address":{
       "city":"Brooklyn",
@@ -25,7 +26,6 @@
         "url":"https://github.com/anastasiaorlova",
         "className":"fa fa-github"
       }
-
     ]
   },
   "resume":{
@@ -52,10 +52,10 @@
         "description":"Organized and managed weekly events and distributed information to groups of 20-30 members, provided translation and interpretation services for guest, speakers and members, moderated Facebook Russian LGBT Support Group of over 300 members"
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Bergdorf Goodman",
+        "title":"Personal Stylist assistant; Stock assistant",
+        "years":"December 2017 - January 2020",
+        "description":"Increased sales by 15%, managed appointments and communications with 20 VIP clients in a timely manner, promoted from Stock assistant to Personal Stylist assistant in December 2018, received a reward for extraordinary service - BG STAR in August 2018 "
       }
     ]
   },

@@ -12,6 +12,7 @@ var state = this.props.data.address.state;
 var zip = this.props.data.address.zip;
 var phone= this.props.data.phone;
 var email = this.props.data.email;
+var blog = this.props.data.blog;
 var resumeDownload = this.props.data.resumedownload;
 }
 
@@ -24,7 +25,9 @@ return (
    <div className="nine columns main-col">
       <h2>About Me</h2>
 
-      <p>{bio}</p>
+      <p>{bio}
+      <br/>
+      <a href={blog}>Please check my blog.</a></p>
       <div className="row">
          <div className="columns contact-details">
             <h2>Contact Details</h2>
@@ -33,7 +36,7 @@ return (
                      {city} {state}, {zip}
                <br />
                <span>{phone}</span><br />
-               <span><a href="mailto:anastasia.orlova1612@gmail.com">{email}</a></span>
+               <span><a href="mailto:anastasia.orlova1612@gmail.com">{email}</a></span><br />
             </p>
          </div>
          <div className="columns download">
