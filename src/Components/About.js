@@ -27,7 +27,7 @@ return (
 
       <p>{bio}
       <br/>
-      <a href={blog}>Please check my blog.</a></p>
+      <a href={blog}>Please check my blog!</a></p>
       <div className="row">
          <div className="columns contact-details">
             <h2>Contact Details</h2>

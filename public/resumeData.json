@@ -32,16 +32,19 @@
   
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Flatiron School",
+        "degree":"Full Stack Web Development",
+        "graduated":"September 2020"
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school": "Lomonosov Moscow State University (MSU)",
+        "degree":"Bachelor's degree, Jewish/Judaic Studies",
+        "graduated":"July 2011"
+      },
+      {
+        "school": "Rothberg International School at the Hebrew University of Jerusalem",
+        "degree":"Jewish/Judaic Studies",
+        "graduated":"August 2009"
       }
     ],
     "work":[
@@ -74,29 +77,29 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Chanel Handbag Picker",
+        "category":"A showcase app that helps you find a perfect style of Chanel Handbag",
+        "image":"chanel.jpg",
+        "url":"https://www.youtube.com/watch?v=W2ZgL4oWR2Y"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Pagan Sanctuary",
+        "category":"Meet Pagan Sanctuary - an app that shares info about pagan holidays and other esotheric topics!",
+        "image":"pagan.jpg",
+        "url":"https://www.youtube.com/watch?v=iybafY6AiY0"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Game Of Thrones Quote For A Day",
+        "category":"An app that generates a random quote from “Game of thrones” TV series based on “A Song Of Ice And Fire” by George R.R. Martin.",
+        "image":"got.jpg",
+        "url":"https://www.youtube.com/watch?v=r8e6_R5sNvw"
       },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      }
+    { 
+      "title":"My business card",
+      "category":"Let's connect!",
+      "image":"card.jpg",
+      "url":"https://anastasiaorlova.github.io"
+    }
     ]
   }
 }
